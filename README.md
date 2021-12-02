@@ -4,7 +4,6 @@
   <a href="https://www.linkedin.com/in/helciosp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/HelcioPessanha"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.facebook.com/helciosp"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/helciosp/"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /></a>
 </div>
 <!--
 **helciosp43/helciosp43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
