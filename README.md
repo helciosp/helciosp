@@ -1,4 +1,4 @@
-<h1> Oi, me chamo Hélcio! Estou aqui para mostrar meu valor! </h1>
+<h1>Olá, me chamo Hélcio! </h1>
 
 <div>
   <a href="https://www.linkedin.com/in/helciosp/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
